@@ -12,12 +12,12 @@ sections:
   - block: collection
     content:
       title: Patent Grants
-      text: I enjoy contributing to opensource. Here are a selection of projects that I am currently contributing to.
+      text: During my stint at IBM watson I wrote 5 patents.
       filters:
         folders:
           - patents
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 3
 ---
