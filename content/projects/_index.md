@@ -12,7 +12,9 @@ sections:
   - block: collection
     content:
       title: Ongoing Projects
-      text: I enjoy contributing to opensource. Here are a selection of projects that I am currently contributing to.
+      text: |
+        I enjoy contributing to opensource. Here are a selection of projects that I am currently contributing to.
+        I have created **PYBANDIT** library to host a bunch of multiarmed bandit algorithms written using python.
       filters:
         folders:
           - projects
