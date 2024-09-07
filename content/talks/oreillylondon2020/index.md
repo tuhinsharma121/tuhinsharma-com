@@ -1,5 +1,5 @@
 ---
-title: Writer Independent Offline Signature Verification in Banks using Few Shot Learning.
+title: "[OREILLY AI LONDON 2020] Writer Independent Offline Signature Verification in Banks using Few Shot Learning."
 authors:
 - admin
 - pravin-jha
@@ -8,7 +8,7 @@ event_url: https://conferences.oreilly.com/strata-data-ai/stai-eu/public/schedul
 location: Excel London, One Western Gateway, Royal Victoria Dock, London, E16 1XL, UK
 
 
-summary: Offline signature verification is one of the most critical tasks in traditional banking and financial industries. The unique challenge is to detect subtle but crucial differences between genuine and forged signatures. This verification task is even more challenging in writer independent scenarios, which is undeniably fiscal to most of the use cases.
+summary: Offline signature verification in banking and finance is crucial yet challenging, especially in writer-independent cases, where detecting subtle differences between genuine and forged signatures is vital.
 abstract: "Offline signature verification is one of the most critical tasks in traditional banking and financial industries. The unique challenge is to detect subtle but crucial differences between genuine and forged signatures. This verification task is even more challenging in writer independent scenarios, which is undeniably fiscal to most of the use cases."
 
 # Talk start and end times.

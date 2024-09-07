@@ -1,5 +1,5 @@
 ---
-title: Federated Learning using Deep Learning
+title: "[DATAHACK SUMMIT INDIA 2019] Federated Learning using Deep Learning"
 authors:
 - admin
 event: Datahack Summit 2019
@@ -27,9 +27,9 @@ featured: false
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/tuhinsharma121
-#url_code: "https://github.com/tuhinsharma121/federated-ml"
-#url_slides: "talks/dhsindia2019.pdf"
-#url_video: ""
+url_code: "https://github.com/tuhinsharma121/federated-ml"
+url_slides: "talks/dhsindia2019.pdf"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

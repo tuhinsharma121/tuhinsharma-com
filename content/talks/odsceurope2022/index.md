@@ -1,5 +1,5 @@
 ---
-title: Eagleeye - Data Pipeline for Anomaly Detection in Cyber Security
+title: "[ODSC EUROPE 2022] Eagleeye - Data Pipeline for Anomaly Detection in Cyber Security"
 authors:
 - admin
 event: ODSC Europe 2022
@@ -7,7 +7,7 @@ event_url: https://odsc.com/speakers/eagleeye-data-pipeline-for-anomaly-detectio
 location: Virtual
 
 
-summary: Cloud-native applications. Multiple Cloud providers. Hybrid Cloud. 1000s of VMs and containers. Complex network policies. Millions of connections and requests in any given time window. This is the typical situation faced by a Security Operations Control (SOC) Analyst every single day. In this talk, the speaker talks about the high-availability and highly scalable data pipelines.
+summary: Explore how SOC Analysts manage complex cloud-native environments with high-availability, scalable data pipelines in this insightful talk.
 abstract: "Cloud-native applications. Multiple Cloud providers. Hybrid Cloud. 1000s of VMs and containers. Complex network policies. Millions of connections and requests in any given time window. This is the typical situation faced by a Security Operations Control (SOC) Analyst every single day. In this talk, the speaker talks about the high-availability and highly scalable data pipelines."
 
 # Talk start and end times.

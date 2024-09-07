@@ -1,5 +1,5 @@
 ---
-title: Building data pipelines for Anomaly Detection
+title: "[DEVCONF.CZ 2022] Building data pipelines for Anomaly Detection"
 authors:
 - admin
 event: Devconf CZ 2022
@@ -7,7 +7,7 @@ event_url: https://devconfcz2022.sched.com/event/siJK/building-data-pipelines-fo
 location: Virtual
 
 
-summary: loud-native applications. Multiple Cloud providers. Hybrid Cloud. 1000s of VMs and containers. Complex network policies. Millions of connections and requests in any given time window. This is the typical situation faced by a Security Operations Control (SOC) Analyst every single day. In this talk, the speaker talks about the high-availability and highly scalable data pipelines.
+summary: A SOC analyst navigates complex cloud environments with thousands of VMs, containers, and connections daily, and this talk covers high-availability, scalable data pipelines to manage such challenges.
 abstract: "Cloud-native applications. Multiple Cloud providers. Hybrid Cloud. 1000s of VMs and containers. Complex network policies. Millions of connections and requests in any given time window. This is the typical situation faced by a Security Operations Control (SOC) Analyst every single day. In this talk, the speaker talks about the high-availability and highly scalable data pipelines."
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ tags:
 - devconfcz2022
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 ---
 

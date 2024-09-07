@@ -1,5 +1,5 @@
 ---
-title: Hybrid Recommendation Systems in News Media using Probabilistic Graphical Models
+title: "[ODSC INDIA 2018] Hybrid Recommendation Systems in News Media using Probabilistic Graphical Models"
 authors:
 - admin
 event: ODSC India 2018

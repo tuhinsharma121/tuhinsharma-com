@@ -1,5 +1,5 @@
 ---
-title: Signature Verification in Banks using Few Shot Learning
+title: "[GIDS 2021] Signature Verification in Banks using Few Shot Learning"
 authors:
 - admin
 event: GIDS India 2021
@@ -7,7 +7,7 @@ event_url: https://saltmarch.com/watch/signature-verification-in-banks-using-few
 location: Virtual
 
 
-summary: Signature is arguably the most popular and widely accepted biometric hallmarks used in the Banking sector for verifying documents, bank checks, forms etc. That is why signature verification is such a critical task and a simple bug in the system can cause severe repercussions. There are two popular ways to do it – Online and Offline. In online process, signature needs to be captured on electronic writing pad and several other types of information like writing speed, pressure etc. are captured. In offline process signature is captured by scanner. While online process performs better than offline process, it comes with a cost due to special hardware requirements. Additionally there are many cases where offline process is the only option such as check transaction and document verification. Offline signature verification can be of two types - writer dependent and writer independent. a writer dependent system needs to be updated with every new signer and for a bank, where every day new consumers can open their account this incurs huge cost. That is why the writer independent scenario is preferable over writer dependent approaches where a generic model is built to classify the signatures as genuine or forged based on the learnt discrepancies between a genuine and a forged signature.
+summary: Signature verification is a critical task in banking, with offline writer-independent methods preferred for cost-effective and scalable authentication of documents without needing updates for each new signer.
 abstract: "Signature is arguably the most popular and widely accepted biometric hallmarks used in the Banking sector for verifying documents, bank checks, forms etc. That is why signature verification is such a critical task and a simple bug in the system can cause severe repercussions. There are two popular ways to do it – Online and Offline. In online process, signature needs to be captured on electronic writing pad and several other types of information like writing speed, pressure etc. are captured. In offline process signature is captured by scanner. While online process performs better than offline process, it comes with a cost due to special hardware requirements. Additionally there are many cases where offline process is the only option such as check transaction and document verification. Offline signature verification can be of two types - writer dependent and writer independent. a writer dependent system needs to be updated with every new signer and for a bank, where every day new consumers can open their account this incurs huge cost. That is why the writer independent scenario is preferable over writer dependent approaches where a generic model is built to classify the signatures as genuine or forged based on the learnt discrepancies between a genuine and a forged signature."
 
 # Talk start and end times.

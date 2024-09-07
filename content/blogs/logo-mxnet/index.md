@@ -2,7 +2,6 @@
 title: Logo detection using Apache MXNet
 authors:
 - admin
-- Bargava Subramanian
 tags:
 - Deep Learning
 - MXnet
@@ -18,7 +17,7 @@ publishDate: "2018-11-01T00:00:00Z"
 
  
 # Is this a featured talk? (true/false)
-featured: false 
+featured: true 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

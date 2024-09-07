@@ -1,5 +1,5 @@
 ---
-title: Anomaly Detection in Smart Buildings using Federated Learning
+title: "[OREILLY AI LONDON 2019] Anomaly Detection in Smart Buildings using Federated Learning"
 authors:
 - admin
 - Bargava Subramanian
