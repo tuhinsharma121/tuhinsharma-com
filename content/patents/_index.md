@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Patents
 view: article-grid
 ---

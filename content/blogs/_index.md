@@ -1,15 +1,13 @@
 ---
 title: Blogs
+cms_exclude: true
+#url: talk
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 2
+# View
+view: card
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: "tab_headers/blogs.jpg"
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: ''
+  filename: ''
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'An example-1-1 conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,15 +16,15 @@ author_notes:
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
-# Schedule page publish date (NOT publication's date).
+# Schedule page publish date (NOT publications's date).
 publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# Enter a publications type from the CSL standard.
 publication_types: ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publications name.
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
@@ -37,7 +37,7 @@ tags:
   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -61,19 +61,19 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Associate this publications with one or more of your projects.
+#   Simply enter your projects's folder or file name without extension.
+#   E.g. `internal-projects` references `content/projects/internal-projects/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - example-1-1
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
+#   Associate this publications with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "example-1-1"` references `content/slides/example-1-1/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: example-1-1
 ---
 
 {{% callout note %}}
