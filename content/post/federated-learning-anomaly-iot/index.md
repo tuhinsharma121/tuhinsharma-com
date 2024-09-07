@@ -1,15 +1,17 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
+title: Federated Learning for Anomaly Detection in Smart Buildings
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
-  - admin
+- admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+- Deep Learning
+- Pytorch
+- Pysyft
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**pixabay**](https://pixabay.com/illustrations/home-smart-automation-house-system-4100193/)'
+  focal_point: ""
+  preview_only: false
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
