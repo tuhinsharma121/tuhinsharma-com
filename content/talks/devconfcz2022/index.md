@@ -24,7 +24,7 @@ tags:
 - devconfcz2022
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 ---
 
