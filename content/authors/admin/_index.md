@@ -177,5 +177,5 @@ contributors of pandas. He has 4 research papers and 5 patents in the fields of 
 MASS conference, Springer nature and Packt publication in the AI track. He writes deep learning articles for O'Reilly in
 collaboration with the AWS MXNET team. He is a regular speaker at prominent AI conferences like O'Reilly Strata & AI,
 ODSC, GIDS, Devconf, Datahack Summit etc. Apart from this, He loves to play table tennis and guitar in his leisure time.
-His favourite quote is "Life is Beautiful". I run a youtube channel on DAD JOKES @popsypunch
+His favourite quote is "Life is Beautiful". He runs a youtube channel on DAD JOKES @popsypunch
 
