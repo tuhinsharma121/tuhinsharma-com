@@ -169,7 +169,7 @@ languages:
 
 ## About Me
 
-Tuhin Sharma is a Sr. Principal Data Scientist at Redhat in the Data Development Insights & Strategy group. Prior to that,
+Tuhin Sharma is Sr. Principal Data Scientist at Redhat in the Data Development Insights & Strategy group. Prior to that,
 he worked at Hypersonix as an AI architect. He also co-founded and has been CEO of Binaize, a website conversion
 intelligence product for e-commerce SMBs. Previously, he was part of IBM Watson where he worked on NLP and ML projects
 featured on Star Sports and CNN-IBN. He loves to code and collaborate on open-source projects. He is one of the top 25
