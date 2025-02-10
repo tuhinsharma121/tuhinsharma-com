@@ -172,7 +172,7 @@ languages:
 Tuhin Sharma is Sr. Principal Data Scientist at Redhat in the Data Development Insights & Strategy group. Prior to that,
 he worked at Hypersonix as an AI architect. He also co-founded and has been CEO of Binaize, a website conversion
 intelligence product for e-commerce SMBs. Previously, he was part of IBM Watson where he worked on NLP and ML projects
-featured on Star Sports and CNN-IBN. He loves to code and collaborate on open-source projects. He is one of the top 25
+featured on Star Sports and CNN-IBN. He loves to code and collaborate on open-source projects. He is one of the top 20
 contributors of pandas. He has 4 research papers and 5 patents in the fields of AI and NLP. He is a reviewer of the IEEE
 MASS conference, Springer nature and Packt publication in the AI track. He writes deep learning articles for O'Reilly in
 collaboration with the AWS MXNET team. He is a regular speaker at prominent AI conferences like O'Reilly Strata & AI,
