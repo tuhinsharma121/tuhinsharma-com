@@ -26,7 +26,7 @@ publishDate: "2023-04-28T00:00:00Z"
 tags: [ gidsindia2024 ]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 
 
