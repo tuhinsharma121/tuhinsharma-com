@@ -1,19 +1,18 @@
 ---
-title: Revolutionizing Smart Buildings with Federated Learning
+title: RAPTOR - A Smarter Way to Retrieve and Use Information in AI
 authors:
 - admin
 tags:
-- Deep Learning
-- Pytorch
-- Pysyft
-summary: Enables the training of ML models in decentralized manner on local data samples without exchanging them.
+- GenAI
+- RAPTOR
+summary: A new way to retrieve and summarize information efficiently.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-05-19T14:15:00Z"
+date: "2025-03-10T14:15:00Z"
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-05-19T00:00:00Z"
+publishDate: "2025-03-10T00:00:00Z"
 
  
 # Is this a featured talk? (true/false)
@@ -55,6 +54,6 @@ math: true
  
 <h2>Description</h2>
 
-In today’s world, IoT (Internet of Things) devices are integral to our daily lives. From wearables and self-driving cars to smart buildings and cities, these devices shape and control our environments. Among these innovations, smart buildings stand out by not only ensuring the comfort and safety of occupants but also promoting energy and financial efficiency. The integration of AI (Artificial Intelligence) in smart buildings has made them even smarter by leveraging data from various sensors to optimize building functionalities.
+Large language models (LLMs) like ChatGPT and GPT-4 are incredibly powerful, but they struggle to keep up with new information and understand long, complex documents. Traditional retrieval methods pull short chunks of text, often missing important context. This is where RAPTOR (Recursive Abstractive Processing for Tree-Organized Retrieval) comes in — a new way to retrieve and summarize information efficiently. In this article, we’ll break down what RAPTOR is, why it’s better than traditional methods, and how to implement it with a hands-on example.
 
 [<p>**Read more..**</p>](https://medium.com/@tuhinsharma121/raptor-a-smarter-way-to-retrieve-and-use-information-in-ai-fd3cb68a6f2f)
