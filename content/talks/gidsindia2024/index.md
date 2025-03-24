@@ -36,7 +36,7 @@ featured: false
 #  name: Follow
 #  url: https://twitter.com/tuhinsharma121
 #url_code: "https://github.com/tuhinsharma121/federated-ml"
-#url_slides: "talks/dhsindia2019.pdf"
+url_slides: "talks/gidsindia2024.pdf"
 #url_video: ""
 
 # Markdown Slides (optional).
