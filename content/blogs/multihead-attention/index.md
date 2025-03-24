@@ -1,38 +1,36 @@
 ---
-title: Uncovering hidden patterns through machine learning
+title: Decoding the Power of Multi-Head Attention in Transformers
 authors:
 - admin
-- Bargava Subramanian
 tags:
-- Deep Learning
-- MXnet
-- O'reilly
-summary: Solving Fizzbuzz problem using Apache MxNet.
+- multihead attention
+- transformer
+summary: The multi-head attention mechanism which is a powerful multi-faceted component.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-12-21T14:15:00Z"
+date: "2024-11-06T14:15:00Z"
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-11-01T00:00:00Z"
+publishDate: "2024-11-06T00:00:00Z"
 
+ 
 # Is this a featured talk? (true/false)
-featured: false
+featured: false 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: PIXABAY'
+  caption: 'Image credit: DALLE'
   focal_point: ""
   preview_only: false
-
 
 #links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/tuhinsharma121
-url_code: "https://github.com/tuhinsharma121/mxnetdemystified"
+url_code: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -52,11 +50,10 @@ url_video: ""
 
 # Enable math on this page?
 math: true
----
-
+--- 
+ 
 <h2>Description</h2>
 
-FizzBuzz problem was made popular by Joel Grus' [post](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) on tensorflow. This article shows how to model fizzbuzz using MXNet. This article shows how to use the basic building blocks of MXNet (autograd etc.) to build a network from scratch. It then goes to show how to use higher level APIs in MXNet to achieve the same. 
+In our pursuit of creating a fun dialogue completer using transformers, we chose to build a system that could complete famous quotes — like those from Cersei Lannister when she played the game of thrones. To achieve this, we first passed our input text through an embedding layer, adding position information to each word embedding to create position-aware embeddings. These were then sent forward to the next layer. In this segment, we dive deeper into the transformative heart of transformer models: the multi-head attention mechanism, which, I must warn, is a powerful multi-faceted component.
 
-
-[<p>**Read more..**</p>](https://www.oreilly.com/radar/uncovering-hidden-patterns-through-machine-learning/)
+[<p>**Read more..**</p>](https://medium.com/@tuhinsharma121/riding-multi-headed-dragons-decoding-the-power-of-multi-head-attention-in-transformers-7c9d18dc2b68)

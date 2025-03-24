@@ -22,7 +22,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**pixabay**](https://pixabay.com/illustrations/apps-social-media-networks-internet-426559/)'
+  caption: 'Image credit: PIXABAY'
   focal_point: ""
   preview_only: false
 

@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**pixabay**](https://pixabay.com/illustrations/home-smart-automation-house-system-4100193/)'
+  caption: 'Image credit: DALLE'
   focal_point: ""
   preview_only: false
 
