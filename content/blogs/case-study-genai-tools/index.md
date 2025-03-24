@@ -1,19 +1,20 @@
 ---
-title: Building a Biomedical Question-Answering System Using RAG
+title: LlamaIndex vs LangChain vs Haystack vs Llama-Stack - A Comparative Analysis
 authors:
 - admin
 tags:
-- GenAI
-- RAG
-- QA system
-summary: Build a biomedical QA system using OpenAI LLM on a local system.
+- llamaindex
+- langchain
+- haystack
+- llama-stack
+summary: Comparison based on capabilities, strengths, weaknesses, market implications, and strategic value for businesses.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-03-03T14:15:00Z"
+date: "2025-02-06T14:15:00Z"
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-03-03T00:00:00Z"
+publishDate: "2025-02-06T00:00:00Z"
 
  
 # Is this a featured talk? (true/false)
@@ -55,6 +56,6 @@ math: true
  
 <h2>Description</h2>
 
-With the explosion of biomedical research and literature, extracting relevant information efficiently has become a challenging task. Large Language Models (LLMs) like GPT-4o-mini, combined with a Retrieval-Augmented Generation (RAG) pipeline, offer a promising approach for building robust question-answering (QA) systems.
+As organizations increasingly integrate AI-driven search and retrieval systems into their workflows, the choice of the right framework becomes critical. Among the leading solutions, LlamaIndex, LangChain, Haystack, and Llama-Stack stand out as powerful tools for building retrieval-augmented generation (RAG) pipelines, enabling seamless interactions between Large Language Models (LLMs) and enterprise data.
 
-[<p>**Read more..**</p>](https://medium.com/@tuhinsharma121/building-a-biomedical-question-answering-system-using-rag-and-openai-llm-b9c3502fd287)
+[<p>**Read more..**</p>](https://medium.com/@tuhinsharma121/llamaindex-vs-langchain-vs-haystack-vs-llama-stack-a-comparative-analysis-6d03aaa1bc36)
