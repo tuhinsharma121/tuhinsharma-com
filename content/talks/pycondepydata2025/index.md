@@ -1,5 +1,5 @@
 ---
-title: "[PYCON GERMANY 2025] Navigating Innovation with Open Hybrid Cloud and Openshift AI"
+title: "[PYCON GERMANY 2025] Enhancing RAG with Fast GraphRAG and InstructLab - A Scalable, Interpretable, and Efficient Framework"
 authors:
   - admin
 event: PyCon DE & PyData 2025
