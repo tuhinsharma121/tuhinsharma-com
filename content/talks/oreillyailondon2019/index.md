@@ -4,7 +4,7 @@ authors:
 - admin
 - Bargava Subramanian
 event: O'reilly AI London 2019
-event_url: https://conferences.oreilly.com/artificial-intelligence/ai-eu/public/schedule/detail/78152
+event_url: https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/public/schedule/detail/78152.html
 location: 225 Edgware Road, Paddington, London W2 1JU, United Kingdom
 
 
