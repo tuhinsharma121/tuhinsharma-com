@@ -104,6 +104,6 @@ you with a clear understanding of how to build/train AI systems that deliver mea
 transparent and trustworthy. Whether you’re a developer, researcher, or just someone passionate about AI, Fast
 GraphRAG is a framework that sparks possibilities and redefines what intelligent retrieval can achieve.
 
-<p>Presentation Video </p>
+<h2>Presentation Video</h2>
 
-Coming Soon..
+{{< youtube OxlsHjGxMQ8 >}}
