@@ -26,7 +26,7 @@ publishDate: "2025-02-12T00:00:00Z"
 tags: [ pycondepydata2025 ]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 
 
