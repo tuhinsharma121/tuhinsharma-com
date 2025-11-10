@@ -3,7 +3,7 @@ title: "[ODSC EUROPE 2022] Eagleeye - Data Pipeline for Anomaly Detection in Cyb
 authors:
 - admin
 event: ODSC Europe 2022
-event_url: https://odsc.com/speakers/eagleeye-data-pipeline-for-anomaly-detection-in-cyber-security/
+event_url: https://odsc.medium.com/all-of-the-virtual-sessions-coming-to-odsc-europe-2022-6e0f578de68a
 location: Virtual
 
 

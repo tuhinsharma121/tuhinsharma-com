@@ -23,7 +23,7 @@ publishDate: "2025-10-08T00:00:00Z"
 tags: [ aimlsystems2025 ]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 
 

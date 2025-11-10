@@ -1,5 +1,5 @@
 ---
-title: "[PYCON GERMANY 2025] Enhancing RAG with Fast GraphRAG and InstructLab - A Scalable, Interpretable, and Efficient Framework"
+title: "[PYCON DE & PYDATA 2025] Enhancing RAG with Fast GraphRAG and InstructLab - A Scalable, Interpretable, and Efficient Framework"
 authors:
   - admin
 event: PyCon DE & PyData 2025

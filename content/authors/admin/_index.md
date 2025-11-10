@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Principal Data Scientist
+role: Technical Advisor, Data & AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
