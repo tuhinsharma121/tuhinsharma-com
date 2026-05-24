@@ -34,7 +34,7 @@ links:
   url: https://github.com/redhat-data-and-ai/template-agent
 - name: ui-code
   url: https://github.com/redhat-data-and-ai/template-ui
-#url_slides: "talks/aimlsystems2025.pdf"
+url_slides: "talks/gidsindia2026.pdf"
 #url_video: ""
 
 # Markdown Slides (optional).
@@ -72,3 +72,7 @@ Through detailed code walkthroughs and live demonstrations, you will explore Fas
 <h3> Who Should Attend </h3>
 
 AI engineers, software architects, DevOps specialists, and enterprise developers responsible for taking AI systems from proof of concept to production at scale.
+
+<p> Presentation Video </p>
+
+{{< youtube FJTmzi2HbMo >}}
